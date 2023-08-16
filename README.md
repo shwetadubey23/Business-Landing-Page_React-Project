@@ -1,3 +1,7 @@
+// i would advise to make a custom README.md file everytime you initialize a new react project and fill it up with the description of what the project is
+//  gonna be, it can be short as well doesn't have to be full of technicals and all... hope this helps :)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
